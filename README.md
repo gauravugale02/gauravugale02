@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>⚡ Fun fact
+Artificial Intelligence & Data Science Student | Skilled in SQL, Excel, Python & Power BI | Data-Driven Thinker
 
 
 ## 🌐 Socials:
